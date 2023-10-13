@@ -9,7 +9,7 @@
 
 - Ask me about **Java, Android, Shell, Kotlin, PHP, Javascript**
 
-- Reach me via: [My Email](michaelmungaimaina@gmail.com )
+- Reach me via: [My Email](mailto:michaelmungaimaina@gmail.com )
 
 - Know about my experiences [Download CV](https://michaelmungaimaina.github.io/images/MICHAEL%20MAINA%20CV%20UPDATED.pdf)
 
