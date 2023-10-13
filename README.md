@@ -5,13 +5,13 @@
 
 - I am actively **enhancing my programming skills as a software developer, and I am currently enrolled in a Software Engineering program. This endeavor follows the completion of my Bachelor's degree in Computer Science.**
 
-- All of my projects are available at [My Portfolio](https://michaelmungaimaina.github.io/)
+- All of my projects are available on [My Portfolio](https://michaelmungaimaina.github.io/)
 
 - Ask me about **Java, Android, Shell, Kotlin, PHP, Javascript**
 
-- Reach me on **michaelmungaimaina@gmail.com**
+- Reach me via: [My Email](michaelmungaimaina@gmail.com )
 
-- Know about my experiences [My CV](https://michaelmungaimaina.github.io/images/MICHAEL%20MAINA%20CV%20UPDATED.pdf)
+- Know about my experiences [Download CV](https://michaelmungaimaina.github.io/images/MICHAEL%20MAINA%20CV%20UPDATED.pdf)
 
 - Fun fact **I love challenges**
 
