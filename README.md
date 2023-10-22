@@ -13,7 +13,7 @@
 
 - Know about my experiences [Download CV](https://michaelmungaimaina.github.io/images/MICHAEL%20MAINA%20CV%20UPDATED.pdf)
 
-- Fun fact **I love challenges**
+- Fun fact: **one sticker at a time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
