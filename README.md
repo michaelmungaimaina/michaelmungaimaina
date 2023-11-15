@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Maina Michael,</h1>
 <h3 align="center">A dedicated software engineer and technology enthusiast.</h3>
 
-- I’m currently crafting an innovative **Adroid Application**. 
+- I’m currently crafting an innovative [**Adroid Application**.](https://github.com/michaelmungaimaina/ShallomApp) 
 
 - I am **currently enrolled in a Software Engineering program, I continuously hone my programming skills to excel in the field after achieving a Bachelor's degree in Computer Science.**
 
