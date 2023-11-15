@@ -1,19 +1,17 @@
 <h1 align="center">Hi , I'm Maina Michael,</h1>
-<h3 align="center">A passionate software engineer and enthusiast.</h3>
+<h3 align="center">A dedicated software engineer and technology enthusiast.</h3>
 
-- I’m currently working on **event management system.**
+- I’m currently crafting an innovative **Adroid Application**. 
 
-- I am actively **enhancing my programming skills as a software developer, and I am currently enrolled in a Software Engineering program. This endeavor follows the completion of my Bachelor's degree in Computer Science.**
+- I am **currently enrolled in a Software Engineering program, I continuously hone my programming skills to excel in the field after achieving a Bachelor's degree in Computer Science.**
 
-- All of my projects are available on [My Portfolio](https://michaelmungaimaina.github.io/)
+- Explore my diverse portfolio showcasing projects spanning Java, Android, Shell, Kotlin, PHP, and JavaScript. [My Portfolio](https://michaelmungaimaina.github.io/)
 
-- Ask me about **Java, Android, Shell, Kotlin, PHP, Javascript**
+- Connect with me via: [E-mail](mailto:michaelmungaimaina@gmail.com )
 
-- Reach me via: [My Email](mailto:michaelmungaimaina@gmail.com )
+- Download [My Comprehensive CV](https://michaelmungaimaina.github.io/images/MICHAEL%20MAINA%20CV%20UPDATED.pdf) to discover my valuable experiences.
 
-- Know about my experiences [Download CV](https://michaelmungaimaina.github.io/images/MICHAEL%20MAINA%20CV%20UPDATED.pdf)
-
-- Fun fact: **one sticker at a time!**
+- Fun fact: **I love collecting stickers, one at a time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
