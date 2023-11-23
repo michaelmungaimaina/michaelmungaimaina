@@ -3,7 +3,7 @@
 
 - I’m currently crafting an innovative [**Adroid Application**.](https://github.com/michaelmungaimaina/ShallomApp) 
 
-- I am **currently enrolled in a Software Engineering program, I continuously hone my programming skills to excel in the field after achieving a Bachelor's degree in Computer Science.**
+- I am **currently enrolled in a Software Engineering program, where I'm continuously honing my programming skills to excel in the field after achieving a Bachelor's degree in Computer Science.**
 
 - Explore my diverse portfolio showcasing projects spanning Java, Android, Shell, Kotlin, PHP, and JavaScript. [My Portfolio](https://michaelmungaimaina.github.io/)
 
