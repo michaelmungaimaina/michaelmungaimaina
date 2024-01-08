@@ -1,9 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+Name+is+Michael+Maina;A+Software+Engineer+Enthuthiast;I+Learn+by+Doing;Currently,+I+am+Honing+my+Programming+skills;Also,+I+am+on+the+Lookout+for+Team+to+collaborate+with;I+am+open+for+collaboration)](https://git.io/typing-svg)
 <h1 align="center">Hi , I'm Maina Michael,</h1>
 <h3 align="center">A dedicated software engineer and technology enthusiast.</h3>
 
 - I’m currently crafting an innovative [**Adroid Application**.](https://github.com/michaelmungaimaina/ShallomApp) 
 
-- I am **currently enrolled in a Software Engineering program, where I'm continuously honing my programming skills to excel in the field after achieving a Bachelor's degree in Computer Science.**
+- I am **currently enrolled in a Software Engineering program, where I'm continuously honing my programming skills to excel in the field, having achieved a Bachelor's degree in Computer Science.**
 
 - Explore my diverse portfolio showcasing projects spanning Java, Android, Shell, Kotlin, PHP, and JavaScript. [My Portfolio](https://michaelmungaimaina.github.io/)
 
