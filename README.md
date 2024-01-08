@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+Name+is+Michael+Maina;A+Software+Engineer+Enthuthiast;I+Learn+by+Doing;Currently,+I+am+Honing+my+Programming+skills;Also,+I+am+on+the+Lookout+for+Team+to+collaborate+with;I+am+open+for+collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=600&lines=Hello%2C+My+Name+is+Michael+Maina.++++++++++;A+Devoted+Software+Engineer+and+Tech+Enthuthiast!++++++++++;I+Learn%2C+Unlearn+and+Relearn+by+Doing!++++++++++;Currently%2C+I+am+Advancing+my+Programming+Skills.++++++++++;Also%2C+I+am+Open+for+a+Team+Collaboration.++++++++++)](https://git.io/typing-svg)
 <h1 align="center">Hi , I'm Maina Michael,</h1>
 <h3 align="center">A dedicated software engineer and technology enthusiast.</h3>
 
