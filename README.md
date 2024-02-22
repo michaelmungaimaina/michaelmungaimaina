@@ -4,15 +4,11 @@
 
 - I’m currently crafting an innovative [**Adroid Application**.](https://github.com/michaelmungaimaina/ShallomApp) 
 
-- I am **currently enrolled in a Software Engineering program, where I'm continuously honing my programming skills to excel in the field, having achieved a Bachelor's degree in Computer Science.**
-
-- Explore my diverse portfolio showcasing projects spanning Java, Android, Shell, Kotlin, PHP, and JavaScript. [My Portfolio](https://michaelmungaimaina.github.io/)
+- Explore my diverse portfolio showcasing projects. [My Portfolio](https://michaelmungaimaina.github.io/)
 
 - Connect with me via: [E-mail](mailto:michaelmungaimaina@gmail.com )
 
 - Download [My Comprehensive CV](https://michaelmungaimaina.github.io/images/MICHAEL%20MAINA%20CV%20UPDATED.pdf) to discover my valuable experiences.
-
-- Fun fact: **I love collecting stickers, one at a time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
